@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="design_patterns" />
         <module name="spring_annotation_xml" />
         <module name="spring_fundamentals_xml" />
         <module name="spring_java" />

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design_patterns" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-annotation-xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-fundamentals-xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_java" charset="UTF-8" />
